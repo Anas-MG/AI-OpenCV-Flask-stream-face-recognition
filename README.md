@@ -29,9 +29,8 @@ after This step is done navigate to the ip of the server and access the port 500
 - configurations script 
 > file: conf.py
 - Flask stream script 
-> stream.py
+> file: stream.py
 - capture and openCV detection & recognition script
-> capture.py
--
+> files: capture.py camera.py
 
 
