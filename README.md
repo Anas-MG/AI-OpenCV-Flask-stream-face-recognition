@@ -4,7 +4,7 @@
 #### Environment:
 ##### Python 3, Opencv 4
 ![ScreenShot_stream](https://user-images.githubusercontent.com/49666154/124705190-40acfd80-dec3-11eb-8d7d-ae8f4b83310c.png)
-##### The project built using html,JavaScript ,Python's flask for live streaming, Opencv to detect and recognize faces. 
+##### The project built using HTML, JavaScript, Python's flask for live streaming, Opencv to detect and recognize faces. 
 - #### pre requirements : 
  ````
  $ pip3 install flask 
@@ -19,7 +19,7 @@ or
 $ python3 server.py 
 ````
 It only runs on python3
-Once done This step is done navigate to the ip of the server and access the port 5000.
+after This step is done navigate to the ip of the server and access the port 5000.
 `` http://localhost:5000 ``
 
 ##### The code was originally for live stream detection cloned from "https://github.com/ramonus/flask-video-stream"
