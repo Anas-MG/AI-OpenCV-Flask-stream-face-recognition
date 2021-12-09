@@ -1,10 +1,12 @@
  ### Real Time video stream with face Detection & Recognition 
-##### The projects goal here is to learn how to create a live stream detection & recognition for the robot's cam 
+##### The is a simple project to learn how to create a live stream detection & recognition for the robot's cam 
 #
 #### Environment:
 ##### Python 3, Opencv 4
 ![ScreenShot_stream](https://user-images.githubusercontent.com/49666154/124705190-40acfd80-dec3-11eb-8d7d-ae8f4b83310c.png)
 ##### The project built using HTML, JavaScript, Python's flask for live streaming, Opencv to detect and recognize faces. 
+###### It containts python3 script that serves Flask video webserver that allows to take photos or see real time video streaming of a connected camera/webcam with OpenCV detection & recognition.
+
 - #### pre requirements : 
  ````
  $ pip3 install flask 
@@ -23,9 +25,6 @@ after This step is done navigate to the ip of the server and access the port 500
 `` http://localhost:5000 ``
 
 ##### The code was originally for live stream detection cloned from "https://github.com/ramonus/flask-video-stream"
-##### It containts python3 script that serves Flask video webserver that allows to take photos or see real time video streaming of a connected camera/webcam controlled with opencv
-##### I've added extra lines to program webcam to recognized my face  
-###### what've done is briefly explained if you look into camera.py you can see how it can recognize the face 
 #
 
 
