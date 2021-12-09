@@ -24,7 +24,7 @@ It only runs on python3
 after This step is done navigate to the ip of the server and access the port 5000.
 `` http://localhost:5000 ``
 
-##### The code was originally for live stream detection cloned from "https://github.com/ramonus/flask-video-stream"
+##### The project was originally for live stream detection cloned from "https://github.com/ramonus/flask-video-stream"
 #
 
 
