@@ -1,7 +1,5 @@
- ### Real time video stream with face Detection & Recognition
- ![Cam_Pjct](https://user-images.githubusercontent.com/49666154/127592259-8eb502ad-0565-48a1-a5f0-f903c1020345.png)
-
-##### Our goal here is to create a live stream detection & recognition from the robot's cam 
+ ### Real Time video stream with face Detection & Recognition 
+##### The projects goal here is to create a live stream detection & recognition from the robot's cam 
 #
 #### Environment:
 ##### Python 3, Opencv 4
