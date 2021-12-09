@@ -4,7 +4,7 @@
 #### Environment:
 ##### Python 3, Opencv 4
 ![ScreenShot_stream](https://user-images.githubusercontent.com/49666154/124705190-40acfd80-dec3-11eb-8d7d-ae8f4b83310c.png)
-##### The project built using HTML, JavaScript, Python's flask for live streaming, Opencv to detect and recognize faces. 
+##### The project was built using HTML, JavaScript, Python's flask for live streaming, Opencv to detect and recognize faces. 
 ###### It containts python3 script that serves Flask video webserver that allows to take photos or see real time video streaming of a connected camera/webcam with OpenCV detection & recognition.
 
 - #### pre requirements : 
