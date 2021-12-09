@@ -20,8 +20,7 @@ $ python server.py
 or
 $ python3 server.py 
 ````
-It only runs on python3
-after This step is done navigate to the ip of the server and access the port 5000.
+It only runs on python3, after This step navigate to the ip of the server and access the port 5000.
 `` http://localhost:5000 ``
 
 - ###### html pages and JavaScript
