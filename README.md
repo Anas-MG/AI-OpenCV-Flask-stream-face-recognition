@@ -24,6 +24,14 @@ It only runs on python3
 after This step is done navigate to the ip of the server and access the port 5000.
 `` http://localhost:5000 ``
 
-#
+- html pages and JavaScript
+> Folder: templates
+- configurations script 
+> file: conf.py
+- Flask stream script 
+> stream.py
+- capture and openCV detection & recognition script
+> capture.py
+-
 
 
