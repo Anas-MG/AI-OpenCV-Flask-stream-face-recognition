@@ -7,22 +7,24 @@
 ##### The project built using HTML, JavaScript, Python's flask for live streaming, Opencv to detect and recognize faces. 
 ###### It containts python3 script that serves Flask video webserver that allows to take photos or see real time video streaming of a connected camera/webcam with OpenCV detection & recognition.
 
-- #### pre requirements : 
+- ### Pre requirements : 
  ````
  $ pip3 install flask 
  $ pip3 install opencv-python
  $ pip3 install face_recognition 
  ````
-#### Run:
+ #
+### Run:
 ````
 $ cd ~/project_folder 
 $ python server.py 
 or
 $ python3 server.py 
 ````
-It only runs on python3, after This step navigate to the ip of the server and access the port 5000.
+##### It only runs on python3, after This step navigate to the ip of the server and access the port 5000.
 `` http://localhost:5000 ``
-
+#
+#### Files: 
 - ###### html pages and JavaScript
 > ###### Folder: templates
 - ###### configurations script 
